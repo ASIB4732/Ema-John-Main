@@ -1,0 +1,7 @@
+.flix{
+    display: flex;
+    border-bottom: 3px solid lightblue;
+    margin-right: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
